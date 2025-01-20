@@ -32,3 +32,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shoreey&show_icons=true&locale=en&layout=compact" alt="shoreey" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shoreey&show_icons=true&locale=en" alt="shoreey" /></p>
+<h3 align="left">My Resume Dashboard: </h3>
+<p align="center">
+    <img src="https://github.com/shoreey/Resume-Power-BI-Dashboard/blob/main/Final%20Dashboard.png" alt="Resume Dashboard Screenshot" width="700"/>
+</p>
+<p align="center">Click [here](https://github.com/shoreey/Resume-Power-BI-Dashboard) to view the interactive dashboard on GitHub.</p>
